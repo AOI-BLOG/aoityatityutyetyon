@@ -1,8 +1,8 @@
-.header{
+header{
   background-image: url(https://livedoor.blogimg.jp/aoityatityutyetyon/imgs/f/f/ff0dbc66.jpg);
   backgroundsize: auto;
 }
-.body img{
+img{
   border-radius: 50%;
   width: 180px;
   height: 180px
