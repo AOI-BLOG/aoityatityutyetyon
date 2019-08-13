@@ -10,6 +10,7 @@ img{
   border-radius: 50%;
   width: 180px;
   height: 180px;
+  padding: 20px;
 }
 .contains1{
   float: left;
