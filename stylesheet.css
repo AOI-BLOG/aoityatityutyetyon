@@ -1,10 +1,15 @@
 header{
-  color: white;
   background-image: url(https://livedoor.blogimg.jp/aoityatityutyetyon/imgs/f/f/ff0dbc66.jpg);
-  backgroundsize: auto;
+  backgroundsize: 1.5;
+}
+title{
+  color: white;
 }
 img{
   border-radius: 50%;
   width: 180px;
   height: 180px;
+}
+.contains1{
+  
 }
