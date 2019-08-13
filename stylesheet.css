@@ -1,6 +1,7 @@
 header{
   background-image: url(https://livedoor.blogimg.jp/aoityatityutyetyon/imgs/f/f/ff0dbc66.jpg);
-  backgroundsize: 1.5;
+  backgroundsize: auto;
+  background-repeat: no-repeat;
   padding-bottom:30px;
 }
 header h1{
