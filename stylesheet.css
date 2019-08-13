@@ -21,3 +21,7 @@ img{
 body{
   padding-left;20px;
 }
+#box1{
+  text-align:center;
+  display: inline-block;
+}
