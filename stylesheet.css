@@ -4,6 +4,7 @@ header{
 }
 title{
   color: white;
+  font-size:50px;
 }
 img{
   border-radius: 50%;
@@ -11,5 +12,7 @@ img{
   height: 180px;
 }
 .contains1{
-  
+  float: left;
+  padding-left: 10px;
+  font-size:20px;
 }
